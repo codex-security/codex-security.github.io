@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codex-security.github.io/sitemap.xml

@@ -20,4 +20,5 @@ Teams drowning in scanner output are the intended audience, because the design p
 
 *An independent page written by a practitioner, not by OpenAI, with no affiliation or endorsement implied; all product names and trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
